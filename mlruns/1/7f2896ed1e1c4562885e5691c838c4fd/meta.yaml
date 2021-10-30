@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/javierruiz/Desktop/ML_AI/mlflow/mlruns/1/7f2896ed1e1c4562885e5691c838c4fd/artifacts
+end_time: 1635599540035
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7f2896ed1e1c4562885e5691c838c4fd
+run_uuid: 7f2896ed1e1c4562885e5691c838c4fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1635599538135
+status: 4
+tags: []
+user_id: javierruiz
